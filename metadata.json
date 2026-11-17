@@ -1,0 +1,6 @@
+{
+  "name": "Tze En KidZ Childcare Centre 慈恩幼儿乐园",
+  "description": "Official website for Tze En KidZ Childcare Centre (慈恩幼儿乐园) in Taman Desa Cheng Perdana 1, Melaka — programs, photo gallery, parent testimonials, and visit booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
